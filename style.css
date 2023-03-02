@@ -95,12 +95,48 @@ p {
     background-image: url(shapes/shape-1.png);
     background-repeat: no-repeat;
     background-position: top left;
-    background-size: 100px 100px;
+    background-size: 200px 200px;
 }
 
 .projects {
     background-image: url(shapes/shape-1.png);
     background-repeat: no-repeat;
-    background-position: right;
-    background-size: 190px 190px;
+    background-position: bottom 15% right 12%;
+    background-size: 350px 350px;
+}
+
+.text-middle {
+    text-align: center;
+    font-size: 25px;
+}
+
+.go-corona-go {
+    background-image: url(shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    background-size: 330px 330px;
+}
+
+.ba-ba-black-ship {
+    background-color: black;
+    margin-right: 60px;
+}
+
+.fatter {
+    text-align: center;
+    color: white;
+
+}
+
+.hard-work {
+    text-align: center;
+    color: white;
+}
+
+#year {
+    color: rgb(218, 76, 76);
+}
+
+#font-abc {
+    font-family: 'Lobster', cursive;
 }
